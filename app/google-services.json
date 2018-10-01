@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "517024684547",
+    "firebase_url": "https://fir-lab-ff0b4.firebaseio.com",
+    "project_id": "fir-lab-ff0b4",
+    "storage_bucket": "fir-lab-ff0b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517024684547:android:ef94367474929735",
+        "android_client_info": {
+          "package_name": "mevsim.com.firebaselab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517024684547-v4v0h2qan6kjtum0bfkhinnmlh4ar89p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mevsim.com.firebaselab",
+            "certificate_hash": "72e4f9040916d9cd39b86d5a7643527dba318029"
+          }
+        },
+        {
+          "client_id": "517024684547-c00k5vpusplkv4qgu12nqqa75qeac0nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkpyRTqL-788KeNblyu-IXRYnlDn9Rz9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517024684547-c00k5vpusplkv4qgu12nqqa75qeac0nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
